@@ -3,5 +3,5 @@ This Replication Package is intended for replication of results presented in the
 * **keras** : includes the complete list of Machine Learning (ML)-based systems repositories using _Keras_
 * **tensorflow** : includes the complete list of ML-based systems repositories using _TensorFlow_
 * **pytorch** : includes the complete list of ML-based systems repositories using _PyTorch_
-* **repo_labeling** : includes steps to label **300** ML-based systems repositories by 3* people
-* **issue_labeling** : includes steps to label **386** closed issues and merged pull requests extracted from ML-based repositories by 3 people
+* **repo_labeling** : includes steps to label **300** ML-based systems repositories by _3_ people
+* **issue_labeling** : includes steps to label **386** closed issues and merged pull requests extracted from ML-based repositories by _3_ people
